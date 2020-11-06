@@ -7,7 +7,7 @@ class Server {
         this.config()
     }
     config(){
-        this.app.set('port', process.env.PORT || 3000)
+        this.app.set('port', process.env.PORT || 4000)
         this.app.use(morgan('dev'))  // Para que muestre las url invocadas
     }
     routes(){

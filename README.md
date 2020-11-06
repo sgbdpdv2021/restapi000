@@ -124,7 +124,7 @@ git commit -m "primer commit"
 
 git branch -M rama001   // Escogemos el nombre de la rama
 
-git remote add origin https://github.com/sgbdpdv000/restapi000.git
+git remote add origin https://github.com/sgbdpdv2021/restapi000.git
 
 git push -u origin rama001  // hacemos push de nuestra rama.
 
